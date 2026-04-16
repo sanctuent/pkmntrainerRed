@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=fe90a5&style=plastic&label=Toons) 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=48cae4&style=plastic&label=viewers) 
 <table>
   <tr>
     <th>
