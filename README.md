@@ -1,5 +1,10 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=c34f53&style=plastic&label=pokemons) 
+<div align="center">
 
-  <img align="left" height="500" width="400" src="https://static.wikia.nocookie.net/pokemon/images/7/74/Red_B2W2.gif/revision/latest?cb=20140408175035">
+  [Ata](https://sanctuent.atabook.org/) ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=frostingpetals&color=c34f53&style=plastic&label=pokemons)
+
+</div>
+<div align="center">
   
-  ${{\color{#c34f53}\Large{\textsf{hi\ \}}}}\$  <br> 
+  <img align="center" height="500" width="400" src="https://static.wikia.nocookie.net/pokemon/images/7/74/Red_B2W2.gif/revision/latest?cb=20140408175035">
+
+</div>
